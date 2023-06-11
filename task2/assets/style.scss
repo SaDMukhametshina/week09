@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+}
+
+body {
+  background-image: url(Moscow.png);
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: 100%;
+  font-size: 16px;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  padding: 1rem 0;
+  font-size: 3rem;
+  color: rgba(0, 0, 0, 0.85);
+  background-color: rgba(142, 161, 166, 0.735);
+}
